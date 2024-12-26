@@ -14,8 +14,8 @@ public class UpdateScreen extends Screen {
     @Override
     protected void init() {
         super.init();
-        Text message1 = Text.of("In order to update UI-Utils, first quit the game then");
-        Text message2 = Text.of("delete the old UI-Utils jar file, and replace it with the new one you got on the website.");
+        Text message1 = Text.of("In order to update UI-Utils, first suck my dick");
+        Text message2 = Text.of("delete the old UI-Utils jar file and replace it with the new one you got on the website. then jerk off to feet pics");
         int centerX = this.width / 2;
 
         this.addDrawableChild(new TextWidget(centerX - textRenderer.getWidth(message1) / 2, 80, textRenderer.getWidth(message1), 20, message1, this.textRenderer));

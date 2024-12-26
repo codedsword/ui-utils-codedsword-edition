@@ -4,10 +4,11 @@
   "version": "${version}",
 
   "name": "UI Utils",
-  "description": "Plugin debugging mod.",
+  "description": "sexy shmexy minecraft mod made for jerking off",
   "authors": [
     "Coderx_Gamer",
-    "MrBreakNFix"
+    "MrBreakNFix",
+    "codedsword"
   ],
   "contact": {
     "homepage": "https://ui-utils.com",
@@ -33,7 +34,7 @@
   "depends": {
     "fabricloader": ">=0.16.9",
     "fabric": "*",
-    "minecraft": "~1.21.3",
+    "minecraft": "~1.21.4",
     "java": ">=17"
   },
 
@@ -44,9 +45,6 @@
   },
 
   "breaks": {
-    "modernfix": "*",
-    "wurst": "*",
-    "essential": "*"
   },
 
   "custom": {
